@@ -3,14 +3,14 @@
 Place to hold tutorial content for the GEE for Ecologist training with the Geospatial Centroid on 20190926. 
 
 
-## to use 
+## How to Use 
 
 Download or clone the repo 
 Open the html docs with a web browser 
 Read the content and copy and past the code to GEE editor to exicute on your own machine 
 Learn a bit :) 
 
-## Description of Model
+## Description of Lessons
 
 Module 1: Introduction to Google Earth Engine
 Get acquainted with the user interface and visualize image differences before and after the High Park Fire.
